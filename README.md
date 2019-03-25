@@ -28,7 +28,7 @@ npm run build  //项目打包
 
 
 ### 浏览器兼容
-Chrome
-Firefox
-Safari
-IE10+
+Chrome  
+Firefox  
+Safari  
+IE10+  
